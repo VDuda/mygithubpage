@@ -20,7 +20,7 @@ echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public origin/gh-pages
 
 echo "Removing existing files"
-rm -rf public/*
+# rm -rf public/*
 
 echo "Generating site"
 hugo
