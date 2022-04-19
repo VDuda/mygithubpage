@@ -19,7 +19,7 @@ rm -rf .git/worktrees/public/
 echo "Checking out gh-pages branch into public"
 git worktree add -B gh-pages public origin/gh-pages
 
-echo "Removing existing files"
+#echo "Removing existing files"
 # rm -rf public/*
 
 echo "Generating site"

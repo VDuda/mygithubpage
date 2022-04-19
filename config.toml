@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = 'http://vlad-duda.me' 
+baseurl = 'https://vlad-duda.com' 
 builddrafts = false
 canonifyurls = false
 languageCode = 'en-US'
@@ -46,7 +46,7 @@ email = 'vlad.duda.slack@gmail.com'
 
 ## Extras
 [params.extra]
-copyright = '© 2022. Vlad Duda. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/).' 
+copyright = '© 2022. Vlad Duda. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/).' 
 poweredby = false
 highlightjs = true
 
