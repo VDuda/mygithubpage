@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://vlad-duda.me/categories/</loc>
+    <loc>https://vlad-duda.com/categories/</loc>
   </url><url>
-    <loc>http://vlad-duda.me/tags/</loc>
+    <loc>https://vlad-duda.com/tags/</loc>
   </url><url>
-    <loc>http://vlad-duda.me/</loc>
+    <loc>https://vlad-duda.com/</loc>
   </url>
 </urlset>

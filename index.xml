@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vlad Duda</title>
-    <link>http://vlad-duda.me/</link>
+    <link>https://vlad-duda.com/</link>
     <description>Recent content on Vlad Duda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="http://vlad-duda.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://vlad-duda.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
