@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = 'https://vlad-duda.com' 
+baseurl = 'https://vlad-duda.com'
 builddrafts = false
 canonifyurls = false
 languageCode = 'en-US'
@@ -23,7 +23,12 @@ enableRobotsTXT = true
 author = 'Vlad Duda'
 intro = 'Pragmatist'
 
-#description = 'Now <a href='https://rit.rakuten.co.jp'>@Rakuten</a>, Previously <a href='https://maxwellhealth.com'>@MaxwellHealth</a>, <a href='https://nuodb.com'>@NuoDB</a> and <a href='https://TheLightWalk.com'>@TheLightWalk</a>. <br/> "Simplicity is the ultimate sophistication."'
+# description = """
+# Now <a href='https://rit.rakuten.co.jp'>@Rakuten</a>, 
+# Previously <a href='https://maxwellhealth.com'>@MaxwellHealth</a>, 
+# <a href='https://nuodb.com'>@NuoDB</a> and <a href='https://TheLightWalk.com'>@TheLightWalk</a>. 
+# <br/> \"Simplicity is the ultimate sophistication.\"
+# """
 authorimage = 'portrait.jpg'
 dateformat = 'Jan 2, 2006'
 
@@ -42,7 +47,7 @@ twitter = 'BigBostonGuy'
 #facebook = '<username>'
 #google = '<username>'
 #stackoverflow = '<username>'
-email = 'vlad.duda.slack@gmail.com'
+email = 'vlad.duda@outlook.com'
 
 ## Extras
 [params.extra]
@@ -57,12 +62,12 @@ highlightjs = true
 #     identifier = 'blog'
 #     url = '/blog/'
 [[menu.main]]
-    name = 'about'
-    identifier = 'about'
+    name = 'Book a Meeting'
+    identifier = 'meeting'
     weight = 100
-    url = '/about/'
+    url = 'https://calendly.com/vlad-duda/30min'
 [[menu.main]]
-    name = 'projects'
-    identifier = 'projects'
+    name = 'Github'
+    identifier = 'github'
     weight = 200
-    url = '/projects/'
+    url = 'https://github.com/VDuda'
