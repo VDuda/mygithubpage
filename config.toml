@@ -67,7 +67,12 @@ highlightjs = true
     weight = 100
     url = 'https://calendly.com/vlad-duda/30min'
 [[menu.main]]
+    name = 'Book Database'
+    identifier = 'books'
+    weight = 200
+    url = 'https://docs.google.com/spreadsheets/d/13f8iDJDGdD8f8blAMoJfE5ofbr4PyAroc4fmHpjCRPs/edit?usp=sharing'
+[[menu.main]]
     name = 'Github'
     identifier = 'github'
-    weight = 200
+    weight = 300
     url = 'https://github.com/VDuda'
