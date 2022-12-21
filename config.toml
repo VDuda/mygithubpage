@@ -56,11 +56,6 @@ poweredby = false
 highlightjs = true
 
 ## Main Menu
-# [[menu.main]]
-#     name = 'blog'
-#     weight = 100
-#     identifier = 'blog'
-#     url = '/blog/'
 [[menu.main]]
     name = 'Book a Meeting'
     identifier = 'meeting'
@@ -76,3 +71,13 @@ highlightjs = true
     identifier = 'github'
     weight = 300
     url = 'https://github.com/VDuda'
+[[menu.main]]
+    name = 'ideas'
+    weight = 400
+    identifier = 'ideas'
+    url = '/ideas/'
+[[menu.main]]
+    name = 'projects'
+    weight = 500
+    identifier = 'projects'
+    url = '/projects/'
