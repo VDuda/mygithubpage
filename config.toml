@@ -51,7 +51,7 @@ email = 'vlad.duda@outlook.com'
 
 ## Extras
 [params.extra]
-copyright = '© 2022. Vlad Duda. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/).' 
+copyright = '© 2023. Vlad Duda. [Some Rights Reserved](https://creativecommons.org/licenses/by/3.0/).' 
 poweredby = false
 highlightjs = true
 
@@ -71,18 +71,18 @@ highlightjs = true
     identifier = 'github'
     weight = 300
     url = 'https://github.com/VDuda'
-[[menu.main]]
-    name = 'Ideas'
-    weight = 400
-    identifier = 'ideas'
-    url = '/ideas/'
-[[menu.main]]
-    name = 'Projects'
-    weight = 500
-    identifier = 'projects'
-    url = '/projects/'
-[[menu.main]]
-    name = 'Writings'
-    weight = 500
-    identifier = 'blog'
-    url = '/blog/'
+#[[menu.main]]
+#    name = 'Ideas'
+#    weight = 400
+#    identifier = 'ideas'
+#    url = '/ideas/'
+#[[menu.main]]
+#    name = 'Projects'
+#    weight = 500
+#    identifier = 'projects'
+#    url = '/projects/'
+#[[menu.main]]
+#    name = 'Writings'
+#    weight = 500
+#    identifier = 'blog'
+#    url = '/blog/'
