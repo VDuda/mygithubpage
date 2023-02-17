@@ -76,11 +76,11 @@ highlightjs = true
 #    weight = 400
 #    identifier = 'ideas'
 #    url = '/ideas/'
-#[[menu.main]]
-#    name = 'Projects'
-#    weight = 500
-#    identifier = 'projects'
-#    url = '/projects/'
+[[menu.main]]
+    name = 'What makes Time special?'
+    weight = 500
+    identifier = 'time'
+    url = '/time/'
 #[[menu.main]]
 #    name = 'Writings'
 #    weight = 500
