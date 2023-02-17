@@ -51,6 +51,7 @@ You can’t be serious.
 
 * The smallest unit of time is one second.
 * fine, one millisecond.
+* fine, one nanosecond.
 * It will never be necessary to set the system time to any value other than the correct local time.
 * fine, testing might require setting the system time to a value other than the correct local time but it will never be necessary to do so in production.
 * Time stamps will always be specified in a commonly-understood format (unix) like 1339972628 or 133997262837.
