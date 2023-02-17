@@ -77,10 +77,10 @@ highlightjs = true
 #    identifier = 'ideas'
 #    url = '/ideas/'
 [[menu.main]]
-    name = 'What makes Time special?'
+    name = 'What makes time special?'
     weight = 500
     identifier = 'time'
-    url = '/time/'
+    url = '/time'
 #[[menu.main]]
 #    name = 'Writings'
 #    weight = 500
