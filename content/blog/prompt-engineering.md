@@ -1,5 +1,5 @@
 +++
-categories = "Technology"
+categories = ["Technology"]
 comments = true
 date = "2023-01-08T11:36"
 draft = false
