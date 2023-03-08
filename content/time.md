@@ -16,9 +16,9 @@ Well for one, the first come first serve principle doesn't *always* hold true wi
 
 For the past few years, I have devoted a significant amount of time to troubleshooting issues related with time. Time has a massive impact on our society based on how we: define, calculate, and understand time. Working with time is engrossing, it could be exasperating at times, but it always provides valuable insights. One might assume that software is flawless, but all code has bugs, and modern software is no exception.
 
-I was repeatedly surprised by the number of mistakes in both application and QA code that were attributable to misunderstandings or misconceptions about time. I am referring to the intriguing way in which computers handle time, as well as the basic pitfalls that are inherent in how we humans have created our calendar, with daylight saving time being only the most obvious example.
+I am referring to the intriguing way in which computers handle time, as well as the basic pitfalls that are inherent in how we humans have created our calendar, with daylight saving time being only the most obvious example.
 
-In reality, I have observed so many of these misunderstandings emerge in other people's (as well as my own) applications that I thought it would be beneficial to compile a list of the most common issues here.
+In reality, many of these misunderstandings emerge in other people's (as well as my own) applications that I thought it would be beneficial to compile a list of the most common issues here.
 
 
 ## All of these assumptions are wrong
