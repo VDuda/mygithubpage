@@ -81,8 +81,8 @@ highlightjs = true
     weight = 500
     identifier = 'time'
     url = '/time'
-#[[menu.main]]
-#    name = 'Writings'
-#    weight = 500
-#    identifier = 'blog'
-#    url = '/blog/'
+[[menu.main]]
+    name = 'Writings'
+    weight = 500
+    identifier = 'blog'
+    url = '/blog/'
