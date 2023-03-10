@@ -11,7 +11,6 @@ title = "Prompt Engineering Will Not Be Necessary in the Future"
 description = "We discuss prompt engineering, as an NLP task, is not sustainable and the need for more structured input and output formats for querying large language models."
 +++
 
-# Prompt Engineering Will Not Be Necessary in the Future
 
 Prompting large language models (LLMs) is more of an art than a science, and it requires significant effort to develop useful prompts. However, prompt engineering is not a sustainable approach to querying LLMs, and it won't be necessary in the future.
 

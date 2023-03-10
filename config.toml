@@ -71,11 +71,11 @@ highlightjs = true
     identifier = 'github'
     weight = 300
     url = 'https://github.com/VDuda'
-#[[menu.main]]
-#    name = 'Ideas'
-#    weight = 400
-#    identifier = 'ideas'
-#    url = '/ideas/'
+[[menu.main]]
+    name = 'About'
+    weight = 400
+    identifier = 'about'
+    url = '/about/'
 [[menu.main]]
     name = 'What makes time special?'
     weight = 500
