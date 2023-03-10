@@ -8,10 +8,10 @@
     <language>en-US</language><atom:link href="https://vlad-duda.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prompt Engineering Will Not Be Necessary in the Future</title>
-      <link>https://vlad-duda.com/blog/prompt-engineering-deep-dive/</link>
+      <link>https://vlad-duda.com/blog/prompt-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vlad-duda.com/blog/prompt-engineering-deep-dive/</guid>
+      <guid>https://vlad-duda.com/blog/prompt-engineering/</guid>
       <description>Prompt Engineering Will Not Be Necessary in the Future Prompting large language models (LLMs) is more of an art than a science, and it requires significant effort to develop useful prompts. However, prompt engineering is not a sustainable approach to querying LLMs, and it won&amp;rsquo;t be necessary in the future.
 Current prompt engineering methods rely on concatenation or templating, but these have limitations for handling complex prompts and require structured data inputs and outputs for best use.</description>
     </item>
