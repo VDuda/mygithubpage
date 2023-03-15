@@ -1,6 +1,5 @@
 +++
 comments = false
-<!-- date = "2023-03-14T15:30:20-05:00" -->
 draft = false
 showpagemeta = true
 showcomments = true
