@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vlad-duda.com/categories/</loc>
-    <lastmod>2019-10-02T15:59:13-04:00</lastmod>
+    <loc>https://vlad-duda.com/about/</loc>
+    <lastmod>2023-03-14T15:30:20-05:00</lastmod>
+  </url><url>
+    <loc>https://vlad-duda.com/tags/about/</loc>
+    <lastmod>2023-03-14T15:30:20-05:00</lastmod>
   </url><url>
     <loc>https://vlad-duda.com/tags/</loc>
+    <lastmod>2023-03-14T15:30:20-05:00</lastmod>
+  </url><url>
+    <loc>https://vlad-duda.com/</loc>
+    <lastmod>2023-03-14T15:30:20-05:00</lastmod>
+  </url><url>
+    <loc>https://vlad-duda.com/categories/</loc>
     <lastmod>2019-10-02T15:59:13-04:00</lastmod>
   </url><url>
     <loc>https://vlad-duda.com/tags/time/</loc>
     <lastmod>2019-10-02T15:59:13-04:00</lastmod>
   </url><url>
     <loc>https://vlad-duda.com/categories/time/</loc>
-    <lastmod>2019-10-02T15:59:13-04:00</lastmod>
-  </url><url>
-    <loc>https://vlad-duda.com/</loc>
     <lastmod>2019-10-02T15:59:13-04:00</lastmod>
   </url><url>
     <loc>https://vlad-duda.com/time/</loc>
