@@ -75,7 +75,7 @@ highlightjs = true
     name = 'About'
     weight = 400
     identifier = 'about'
-    url = '/about/'
+    url = '/about'
 [[menu.main]]
     name = 'What makes time special?'
     weight = 500
