@@ -5,19 +5,18 @@
     <link>https://vlad-duda.com/tags/about/</link>
     <description>Recent content in about on Vlad Duda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 14 Mar 2023 15:30:20 -0500</lastBuildDate><atom:link href="https://vlad-duda.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://vlad-duda.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://vlad-duda.com/about/</link>
-      <pubDate>Tue, 14 Mar 2023 15:30:20 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vlad-duda.com/about/</guid>
       <description>About Enjoys hacking, writing, and andrenaline
 Some guy on the internet that likes to build digital things. A career consisting of startups, corporate tech, and research. Roles such as Software Engineer, DevOps, MLOps, Cofounder, and Consultant.
 When not overwhelmed; I enjoy sailing, boxing, reading, and spending time with friends &amp;amp; family.
 Subjects I&amp;rsquo;m interested in:
- Reverse Engineering Productivity Hacks Cutting edge software infrastracture Immigration/Legal tech policy eCommerce (from the technical &amp;amp; research side)  Software wrk2-docker: Benchmarking Network Connections tor-exit: Monitor Tor Exit Nodes visc2ovpn: Convert file formats PandaCoin: AI/ML meets blockchain api-gateway-consul: Personal API Gateway magmi: Magento Mass Importer konsul: LLM for Immigration Advice</description>
+ Reverse Engineering Productivity Hacks Cutting edge software infrastracture Immigration/Legal tech policy eCommerce (from the technical &amp;amp; research side)  Software  wrk2-docker: Benchmarking Network Connections tor-exit: Monitor Tor Exit Nodes visc2ovpn: Convert file formats PandaCoin: AI/ML meets blockchain api-gateway-consul: Personal API Gateway magmi: Magento Mass Importer konsul: LLM for Immigration Advice  Open Source  OSSU: Open Source Society University tldr: Better than Google/SO Rancher: Centralized Kubernetes Control Plane (On-Prem) OpenRefine: Dealing with Dirty Data vuestorefront: Headless eCommerce PrivateBin: Zero-Trust PasteBin awesome-bash: bash widgets  Fun  PoC||GTFO: IYKYK Phrack  Questions  What Happens When?</description>
     </item>
     
   </channel>
