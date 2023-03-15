@@ -1,6 +1,6 @@
 +++
 comments = false
-date = "2023-03-14T15:30:20-05:00"
+<!-- date = "2023-03-14T15:30:20-05:00" -->
 draft = false
 showpagemeta = true
 showcomments = true
@@ -24,32 +24,32 @@ Subjects I'm interested in:
 - eCommerce (from the technical & research side)
 
 ## Software
-[wrk2-docker](https://hub.docker.com/r/1vlad/wrk2-docker/): Benchmarking Network Connections
-[tor-exit](https://github.com/VDuda/tor-exit): Monitor Tor Exit Nodes
-[visc2ovpn](https://github.com/VDuda/viscosity-to-openvpn): Convert file formats
-[PandaCoin](https://github.com/VDuda/PandaCoin): AI/ML meets blockchain 
-[api-gateway-consul](https://github.com/VDuda/api-gateway-consul): Personal API Gateway
-[magmi](https://github.com/VDuda/magmi-git): Magento Mass Importer
-[konsul](http://konsul.io/): LLM for Immigration Advice
+- [wrk2-docker](https://hub.docker.com/r/1vlad/wrk2-docker/): Benchmarking Network Connections
+- [tor-exit](https://github.com/VDuda/tor-exit): Monitor Tor Exit Nodes
+- [visc2ovpn](https://github.com/VDuda/viscosity-to-openvpn): Convert file formats
+- [PandaCoin](https://github.com/VDuda/PandaCoin): AI/ML meets blockchain 
+- [api-gateway-consul](https://github.com/VDuda/api-gateway-consul): Personal API Gateway
+- [magmi](https://github.com/VDuda/magmi-git): Magento Mass Importer
+- [konsul](http://konsul.io/): LLM for Immigration Advice
 
 ## Open Source 
-[OSSU](https://github.com/ossu): Open Source Society University
-[tldr](https://github.com/tldr-pages/tldr): Better than Google/SO
-[Rancher](https://github.com/rancher/rancher): Centralized Kubernetes Control Plane (On-Prem)
-[OpenRefine](https://github.com/OpenRefine/openrefine.org): Dealing with Dirty Data
-[vuestorefront](https://github.com/vuestorefront/magento2): Headless eCommerce
-[PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero-Trust PasteBin
-[awesome-bash](https://github.com/awesome-lists/awesome-bash): bash widgets
+- [OSSU](https://github.com/ossu): Open Source Society University
+- [tldr](https://github.com/tldr-pages/tldr): Better than Google/SO
+- [Rancher](https://github.com/rancher/rancher): Centralized Kubernetes Control Plane (On-Prem)
+- [OpenRefine](https://github.com/OpenRefine/openrefine.org): Dealing with Dirty Data
+- [vuestorefront](https://github.com/vuestorefront/magento2): Headless eCommerce
+- [PrivateBin](https://github.com/PrivateBin/PrivateBin): Zero-Trust PasteBin
+- [awesome-bash](https://github.com/awesome-lists/awesome-bash): bash widgets
 
 
 ### Fun
-[PoC||GTFO](https://github.com/angea/pocorgtfo): IYKYK Phrack
-]
+- [PoC||GTFO](https://github.com/angea/pocorgtfo): IYKYK Phrack
+
 
 
 ## Questions
-[What Happens When?](https://github.com/alex/what-happens-when): The greatest of all CS interview question
-[Why Procrastinators?](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html): A curse or addiction 
-[Reverse entropy?](http://users.ece.cmu.edu/~gamvrosi/thelastq.html): The Last Question
+- [What Happens When?](https://github.com/alex/what-happens-when): The greatest of all CS interview question
+- [Why Procrastinators?](https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html): A curse or addiction 
+- [Reverse entropy?](http://users.ece.cmu.edu/~gamvrosi/thelastq.html): The Last Question
 
 
