@@ -60,7 +60,7 @@ highlightjs = true
     name = 'Book a Meeting'
     identifier = 'meeting'
     weight = 100
-    url = 'https://calendly.com/vlad-duda/30min'
+    url = 'http://meet.duda.wtf'
 [[menu.main]]
     name = 'Reading DB'
     identifier = 'books'
