@@ -47,7 +47,7 @@ twitter = 'BigBostonGuy'
 #facebook = '<username>'
 #google = '<username>'
 #stackoverflow = '<username>'
-email = 'vlad.duda@outlook.com'
+email = 'vlad@duda.wtf'
 
 ## Extras
 [params.extra]
@@ -82,7 +82,7 @@ highlightjs = true
     identifier = 'time'
     url = '/time'
 [[menu.main]]
-    name = 'Writings'
+    name = 'Blog'
     weight = 500
     identifier = 'blog'
     url = '/blog/'
