@@ -8,7 +8,7 @@ showcomments = true
 slug = "maker-time"
 tags = ["Software Engineering", "Productivity", "Management", "Maker Schedule", "Flow State"]
 title = "Maker Time: The Key to High-Performing Software Teams"
-description = "We discuss prompt engineering, as an NLP task, is not sustainable and the need for more structured input and output formats for querying large language models."
+description = "Maker Time is the total time an engineer spends working on a task without interruptions. It is the most important input for high performing software teams because it allows engineers to achieve flow state, where they are most productive and can solve the hardest problems."
 +++
 
 **Time is the most important factor in creating high-performing software teams.** Managers must carefully manage time, scope, and people to deliver successfully.
