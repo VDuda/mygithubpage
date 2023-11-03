@@ -11,8 +11,6 @@ title = "LLM Winners: Incumbents, New Entrants, and Data Owners"
 description = "Large language models (LLMs) are poised to revolutionize many industries, and three groups are well-positioned to reap the benefits: incumbents with existing distribution networks, new companies that develop specialized LLM applications, and companies that own large amounts of data."
 +++
 
-# Who will benefit most from large language models (LLMs)?
-
 As LLMs become more widespread, there are a few key groups of potential winners:
 
 * **Incumbents with existing distribution networks:** Companies like Google, Microsoft, and Amazon can layer LLMs into their existing products and services to enhance the user experience. For example, Google Search could use LLMs to provide more comprehensive and informative answers to user queries.
