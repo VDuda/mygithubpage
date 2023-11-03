@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language><atom:link href="https://vlad-duda.com/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>LLM Winners: Incumbents, New Entrants, and Data Owners</title>
+      <link>https://vlad-duda.com/blog/genai-winnners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vlad-duda.com/blog/genai-winnners/</guid>
+      <description>Who will benefit most from large language models (LLMs)? As LLMs become more widespread, there are a few key groups of potential winners:
+ Incumbents with existing distribution networks: Companies like Google, Microsoft, and Amazon can layer LLMs into their existing products and services to enhance the user experience. For example, Google Search could use LLMs to provide more comprehensive and informative answers to user queries. New companies that develop specialized LLM applications: There is an opportunity for new companies to develop specialized LLM applications that are tailored to the needs of specific industries or user groups.</description>
+    </item>
+    
+    <item>
       <title>Maker Time: The Key to High-Performing Software Teams</title>
       <link>https://vlad-duda.com/blog/maker-time/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
