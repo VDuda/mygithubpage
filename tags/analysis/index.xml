@@ -16,5 +16,14 @@
  Incumbents with existing distribution networks: Companies like Google, Microsoft, and Amazon can layer LLMs into their existing products and services to enhance the user experience. For example, Google Search could use LLMs to provide more comprehensive and informative answers to user queries. New companies that develop specialized LLM applications: There is an opportunity for new companies to develop specialized LLM applications that are tailored to the needs of specific industries or user groups.</description>
     </item>
     
+    <item>
+      <title>The Future of LLMs: User-Friendly Approaches and Diverse Language Support</title>
+      <link>https://vlad-duda.com/blog/future-of-llms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vlad-duda.com/blog/future-of-llms/</guid>
+      <description>The shift towards User-Friendly approaches of data Python has long been the go-to choice for many tasks involving data — from analyzing data to developing machine learning models. It&amp;rsquo;s been preferred largely because it&amp;rsquo;s easy to use across different computer systems, it doesn&amp;rsquo;t require rigid data type definitions, and it&amp;rsquo;s great for quickly trying out ideas, which is often needed in data-related fields. Anything that can&amp;rsquo;t be done in SQL is done in Python.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -36,6 +36,10 @@
   </url><url>
     <loc>https://vlad-duda.com/tags/business-models/</loc>
   </url><url>
+    <loc>https://vlad-duda.com/tags/data-engineering/</loc>
+  </url><url>
+    <loc>https://vlad-duda.com/categories/data-science/</loc>
+  </url><url>
     <loc>https://vlad-duda.com/tags/flow-state/</loc>
   </url><url>
     <loc>https://vlad-duda.com/tags/infrastructure/</loc>
@@ -60,6 +64,8 @@
   </url><url>
     <loc>https://vlad-duda.com/tags/productivity/</loc>
   </url><url>
+    <loc>https://vlad-duda.com/tags/programming-languages/</loc>
+  </url><url>
     <loc>https://vlad-duda.com/tags/prompt-engineering/</loc>
   </url><url>
     <loc>https://vlad-duda.com/blog/prompt-engineering/</loc>
@@ -69,5 +75,7 @@
     <loc>https://vlad-duda.com/tags/startups/</loc>
   </url><url>
     <loc>https://vlad-duda.com/categories/technology/</loc>
+  </url><url>
+    <loc>https://vlad-duda.com/blog/future-of-llms/</loc>
   </url>
 </urlset>
