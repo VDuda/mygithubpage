@@ -43,6 +43,8 @@ Subjects I'm interested in:
 
 ### Fun
 - [PoC||GTFO](https://github.com/angea/pocorgtfo): IYKYK Phrack
+- [Hubris Humility Index](https://www.nunomonteiro.org/the-hubris-humility-index): Score high in both to win
+- [WTF Happened in 1971](https://wtfhappenedin1971.com/): Gold standard and Bitcoin 
 
 
 
