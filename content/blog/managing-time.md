@@ -12,7 +12,6 @@ description = "Maker Time is the total time an engineer spends working on a task
 +++
 
 **Time is the most important factor in creating high-performing software teams.** Managers must carefully manage time, scope, and people to deliver successfully.
-t
 
 * **Time:** The total time the team spends on a problem.
 * **Scope:** The functionality of the completed work.
