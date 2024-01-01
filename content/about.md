@@ -46,7 +46,7 @@ Subjects I'm interested in:
 - [Hubris Humility Index](https://www.nunomonteiro.org/the-hubris-humility-index): Score high in both to win
 - [WTF Happened in 1971](https://wtfhappenedin1971.com/): Gold standard and Bitcoin
 - [The Machine Stops](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)
-
+- [Dead Internet Theory](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/): bots, bots, bots
 
 
 ## Questions
