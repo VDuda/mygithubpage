@@ -48,6 +48,7 @@ Subjects I'm interested in:
 - [The Machine Stops](https://www.cs.ucdavis.edu/~koehl/Teaching/ECS188/PDF_files/Machine_stops.pdf)
 - [Dead Internet Theory](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/): bots, bots, bots
 - [Monte Carlo](https://people.bordeaux.inria.fr/pierre.delmoral/MetropolisUlam49.pdf): First document describing Monte Carlo
+- [Reverse Engineering LLMs](https://github.com/Shamar/ANN-decompiler)
 
 
 ## Questions
