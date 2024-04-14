@@ -9,9 +9,9 @@ tags = ["about"]
 
 # About
 
-Enjoys hacking, writing, and andrenaline
+Enjoys hacking, writing, and andrenaline.
 
-Some guy on the internet that likes to build digital things. A career consisting of startups, corporate tech, and research. Roles such as Software Engineer, DevOps, MLOps, Cofounder, and Consultant. 
+An internet gentleman that builds digital things. A career consisting of startups, corporate tech, and research. Roles such as Software Engineer, DevOps, MLOps, Cofounder, and Consultant. 
 
 When not overwhelmed; I enjoy sailing, boxing, reading, and spending time with friends & family. 
 
